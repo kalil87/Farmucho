@@ -1,0 +1,17 @@
+﻿@*@Html.Raw(TempData["msg"])*@
+
+<h1>Factura</h1>
+<hr />
+<p>Ingrese la cantidad de productos a facturar (maximo 30 productos)</p>
+
+<form asp-action="Update">
+    <div class="container">
+        <div class="form-group mb-3">
+            <label class="control-label"><b>CANTIDAD DE PRODUCTOS</b></label>
+            <input type="number" name="cant" class="form-control" min="1" max="30" />
+        </div>
+        <div class="form-group mb-3">
+            <input type="submit" value="AGREGAR" class="btn btn-secondary" />
+        </div>
+    </div>
+</form>

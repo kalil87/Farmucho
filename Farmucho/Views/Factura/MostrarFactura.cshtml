@@ -1,0 +1,81 @@
+﻿@model Factura
+
+<link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+
+<h1>Factura #@Model.NumFac</h1>
+<hr />
+
+<h2>Datos del cliente</h2>
+
+@if (@Model.ClienteFac != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>NOMBRE</th>
+                <th>APELLIDO</th>
+                <th>CUIT/CUIL</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <label>@Model.ClienteFac.Nombre</label>
+            </td>
+            <td>
+                <label>@Model.ClienteFac.Apellido</label>
+            </td>
+            <td>
+                <label>@Model.ClienteFac.Cuit</label>
+            </td>
+        </tr>
+    </table>
+}
+else
+{
+    <p><b>Consumidor Final</b></p>
+}
+
+<h2>Detalles del producto</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>PRODUCTO</th>
+            <th>DROGA</th>
+            <th>LABORATORIO</th>
+            <th>PRECIO UNITARIO</th>
+            <th>CANTIDAD</th>
+            <th>IMPORTE</th>
+        </tr>
+    </thead>
+    @foreach (var i in Model.ItemsFactura)
+    {
+        <tr>
+            <td>
+                <label>@i.Medicamento?.Nombre</label>
+            </td>
+            <td>
+                <label>@i.Medicamento?.Droga</label>
+            </td>
+            <td>
+                <label>@i.Medicamento?.Laboratorio</label>
+            </td>
+            <td>
+                <label>@i.Medicamento?.PrecioVenta</label>
+            </td>
+            <td>
+                <label>@i.Cantidad</label>
+            </td>
+            <td>
+                <label>@i.Importe</label>
+            </td>
+        </tr>
+    }
+</table>
+
+<h3>Importe total</h3>
+<p>$@Model.ImporteTotal</p>
+
+<button class="btn btn-outline-dark fa fa-print" style="margin-top:10px; margin-bottom:10px" aria-hidden="true" onclick="window.print()"></button>
+
+<a asp-action="DatosFactura" asp-controller="Factura" class="btn btn-outline-dark fa fa-arrow-left" style="margin-top:10px; margin-bottom:10px" aria-hidden="true"></a>

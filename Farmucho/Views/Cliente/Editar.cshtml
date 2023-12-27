@@ -1,0 +1,39 @@
+﻿@model Cliente
+@Html.Raw(TempData["msg"])
+
+<link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+
+<h1>Editar Cliente</h1>
+<hr />
+
+<form asp-action="Update">
+    <div class="form-group d-none">
+        <label class="control-label">ID</label>
+        <input asp-for="Id" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">NOMBRE</label>
+        <input asp-for="Nombre" class="form-control" type="text" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">APELLIDO</label>
+        <input asp-for="Apellido" class="form-control" type="text" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">TELEFONO</label>
+        <input asp-for="Telefono" class="form-control" type="tel" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">MAIL</label>
+        <input asp-for="Mail" class="form-control" type="email" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">CUIT</label>
+        <input asp-for="Cuit" class="form-control" type="number" />
+    </div>
+    <div class="form-group" style="margin-top:10px">
+        <input type="submit" value="Enviar" class="btn btn-success" />
+    </div>
+</form>
+
+<a asp-action="Index" asp-controller="Cliente" class="btn btn-outline-dark fa fa-arrow-left" style="margin-top:10px; margin-bottom:10px" aria-hidden="true"></a>

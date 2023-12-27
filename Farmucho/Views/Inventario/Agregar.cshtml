@@ -1,0 +1,43 @@
+﻿@model Inventario
+@Html.Raw(TempData["msg"])
+
+<link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+
+<h1>Agregar Medicamento</h1>
+<hr />
+
+<form asp-action="GuardarAgregar">
+    <div class="form-group mb-3p">
+        <label class="control-label">NOMBRE</label>
+        <input asp-for="Nombre" class="form-control" type="text" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">CANTIDAD</label>
+        <input asp-for="Cantidad" class="form-control" type="number" min="0" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">DROGA</label>
+        <input asp-for="Droga" class="form-control" type="text" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">VENCIMIENTO</label>
+        <input asp-for="Vencimiento" class="form-control" type="date" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">LABORATORIO</label>
+        <input asp-for="Laboratorio" class="form-control" type="text" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">PRECIO COMPRA</label>
+        <input asp-for="PrecioCompra" class="form-control" type="number" />
+    </div>
+    <div class="form-group mb-3p">
+        <label class="control-label">PRECIO VENTA</label>
+        <input asp-for="PrecioVenta" class="form-control" type="number" />
+    </div>
+    <div class="form-group mb-3p" style="margin-top:10px">
+        <input type="submit" value="Enviar" class="btn btn-success" />
+    </div>
+</form>
+
+<a asp-action="Index" asp-controller="Inventario" class="btn btn-outline-dark fa fa-arrow-left" style="margin-top:10px; margin-bottom:10px" aria-hidden="true"></a>

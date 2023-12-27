@@ -1,0 +1,64 @@
+﻿@model List<Inventario>
+@Html.Raw(TempData["msg"])
+
+<h1 style="margin-bottom:20px">Reabastecimiento</h1>
+<hr />
+<p>Se mostrarán todos los medicamentos cuyo stock sea menor a 6</p>
+
+<table class="table" style="margin-top:20px; margin-bottom:20px">
+    <thead>
+        <tr>
+            <th>NOMBRE</th>
+            <th>CANTIDAD</th>
+            <th>DROGA</th>
+            <th>VENCIMIENTO</th>
+            <th>LABORATORIO</th>
+            <th>PRECIO DE COMPRA</th>
+            <th>PRECIO DE VENTA</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <label>@item.Nombre</label>
+            </td>
+            <td>
+                <label>@item.Cantidad</label>
+            </td>
+            <td>
+                <label>@item.Droga</label>
+            </td>
+            <td>
+                <label>@item.Vencimiento</label>
+            </td>
+            <td>
+                <label>@item.Laboratorio</label>
+            </td>
+            <td>
+                <label>@item.PrecioCompra</label>
+            </td>
+            <td>
+                <label>@item.PrecioVenta</label>
+            </td>
+            <form asp-action="Update" asp-route-id="@item.Id">
+            <td>
+                <input type="number" name="Cantidad" class="form-control" />
+            </td>
+            <td>
+                <input type="submit" value="AGREGAR CANTIDAD" class="btn btn-secondary" />
+            </td>
+            </form>
+        </tr>
+    }
+</table>
+
+<form asp-action="Todos" style="margin-top:20px; margin-bottom:30px">
+    <div class="form-group" style="margin-top:20px">
+        <label class="control-label"><b>CANTIDAD</b></label>
+        <input type="number" name="Cantidad" class="form-control" />
+    </div>
+    <div class="form-group" style="margin-top:10px">
+        <input type="submit" value="AGREGAR A TODOS" class="btn btn-success" />
+    </div>
+</form>

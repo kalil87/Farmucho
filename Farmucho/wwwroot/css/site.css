@@ -1,0 +1,35 @@
+html {
+    font-size: 11px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.iconito {
+    color: black;
+}
+
+.iconito-verde:hover {
+    color: green;
+}
+
+.iconito-rojo:hover {
+    color: red;
+}

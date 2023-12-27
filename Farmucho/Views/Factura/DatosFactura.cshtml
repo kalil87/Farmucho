@@ -1,0 +1,50 @@
+﻿@model ViewModel
+@Html.Raw(TempData["msg"])
+
+<link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+
+<h1>Factura</h1>
+<hr />
+<p>Simule una venta y genere una factura</p>
+
+<form asp-action="MostrarFactura">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <select asp-for="IdCliente" class="form-control" asp-items="@Model.ListaClientes"></select>
+            </td>
+        </tr>
+    </table>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Cantidad</th>
+            </tr>
+        </thead>
+        @for (int i = 0; i < Model.Cant; i++)
+        {
+            @if (Model.IdProductos?[i] != null && Model.CantProductos?[i] != null)
+            {
+                <tr>
+                    <td>
+                        <select asp-for="@Model.IdProductos[i]" class="form-control" asp-items="@Model.ListaMedicamentos"></select>
+                    </td>
+                    <td>
+                        <input asp-for="@Model.CantProductos[i]" type="number" class="form-control" min="0" />
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+    <div class="form-group" style="margin-top:10px">
+        <input type="submit" value="Enviar" class="btn btn-outline-dark" />
+    </div>
+</form>
+
+<a asp-action="Index" asp-controller="Factura" class="btn btn-outline-dark fa fa-arrow-left" style="margin-top:10px; margin-bottom:10px" aria-hidden="true"></a>

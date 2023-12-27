@@ -1,0 +1,389 @@
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\kalil\OneDrive\Escritorio\ort\Farmucho\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll
+C:\Users\Administrador\Desktop\Farmucho\Farmucho\bin\Debug\net6.0\libman.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\libman.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.Farmucho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.build.Farmucho.props
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Farmucho.props
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Farmucho.props
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\Edgardo\Desktop\Farmucho V6\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\libman.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\kalil\OneDrive\Escritorio\Farmucho V6 con css\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\libman.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo cuatri\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\appsettings.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\libman.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.staticwebassets.runtime.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.exe
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.deps.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.runtimeconfig.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.AssemblyReference.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfoInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.AssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CoreCompileInputs.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.RazorAssemblyInfo.cs
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.Farmucho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.build.Farmucho.props
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Farmucho.props
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Farmucho.props
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\bundle\Farmucho.styles.css
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\scopedcss\projectbundle\Farmucho.bundle.scp.css
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.csproj.CopyComplete
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\refint\Farmucho.dll
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.pdb
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\Farmucho.genruntimeconfig.cache
+C:\Users\kalil\OneDrive\Escritorio\segundo-cuatrimestre\pnt1\trabajo practico mvc\Farmucho ultimo\Farmucho\obj\Debug\net6.0\ref\Farmucho.dll

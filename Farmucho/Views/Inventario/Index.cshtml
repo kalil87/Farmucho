@@ -1,0 +1,58 @@
+﻿@model List<Inventario>
+@Html.Raw(TempData["msg"])
+
+<link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+
+<h1>Inventario</h1>
+<hr />
+<p>Se listarán todos los medicamentos registrados</p>
+
+<a asp-action="Agregar" class="btn btn-success" style="margin-top:10px; margin-bottom:20px; float: right">Agregar Medicamento</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>NOMBRE</th>
+            <th>CANTIDAD</th>
+            <th>DROGA</th>
+            <th>VENCIMIENTO</th>
+            <th>LABORATORIO</th>
+            <th>PRECIO DE COMPRA</th>
+            <th>PRECIO DE VENTA</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <label>@item.Nombre</label>
+            </td>
+            <td>
+                <label>@item.Cantidad</label>
+            </td>
+            <td>
+                <label>@item.Droga</label>
+            </td>
+            <td>
+                <label>@item.Vencimiento</label>
+            </td>
+            <td>
+                <label>@item.Laboratorio</label>
+            </td>
+            <td>
+                <label>@item.PrecioCompra</label>
+            </td>
+            <td>
+                <label>@item.PrecioVenta</label>
+            </td>
+            <td>
+                <a asp-action="Editar" asp-route-id="@item.Id" class="iconito iconito-verde fa-sharp fa-solid fa-pen-to-square fa-lg"></a>
+            </td>
+            <td>
+                <a asp-action="Borrar" asp-route-id="@item.Id" class="iconito iconito-rojo fa-sharp fa-solid fa-trash fa-lg"></a>
+            </td>
+        </tr>
+    }
+</table>
